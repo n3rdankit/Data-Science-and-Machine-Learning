@@ -1,2 +1,2 @@
 # Data-Science
-Assignments and DS Project
+It includes Data Science and Machine Learning Assignments and Final Project.
